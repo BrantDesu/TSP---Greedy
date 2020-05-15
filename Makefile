@@ -2,7 +2,7 @@ flags=-Wno-deprecated -g -ggdb
 comp=g++
 prog=tsp
 
-SEEDS = 10
+SEEDS = 1234 4321 8000 0
 
 debug=0
 
